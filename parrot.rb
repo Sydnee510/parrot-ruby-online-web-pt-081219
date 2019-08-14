@@ -3,8 +3,7 @@
 def parrot(phrase="Squawk!")
   puts phrase
   phrase
- #return "Pretty bird!"
- return "Squawk!"
+ return "Pretty bird!"
 end  
 
 parrot
